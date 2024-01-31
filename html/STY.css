@@ -1,0 +1,21 @@
+body{
+    background-image : url('https://img.freepik.com/premium-vector/line-background-abstract-background-beautiful-background-bg-pattern-background-design-slide-bg_634868-9.jpg');
+    background-size: cover;
+}
+
+h2 {
+    color:red;
+    background-image:url('https://img.freepik.com/premium-vector/line-background-abstract-background-beautiful-background-bg-pattern-background-design-slide-bg_634868-9.jpg') ;
+}
+
+p{
+    color:cadetblue;
+}
+
+.webtext{
+    border : 3px dashed green;
+}
+
+#div1{
+    background-color: rgba(0, 0, 0, 0.5);
+}
